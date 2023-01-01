@@ -1,3 +1,14 @@
+---
+title: Chapter Six
+questions:
+- "What basic?"
+- "How can ?"
+- "How do ?"
+- "Can I ?"
+objectives:
+- "???"
+- "???"
+---
 # Final research study
 
 ## Introduction

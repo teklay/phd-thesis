@@ -1,3 +1,14 @@
+---
+title: Chapter One
+questions:
+- "What basic?"
+- "How can ?"
+- "How do ?"
+- "Can I ?"
+objectives:
+- "???"
+- "???"
+---
 \setcounter{page}{1}
 \pagenumbering{arabic}
 \doublespacing

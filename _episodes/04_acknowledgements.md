@@ -1,3 +1,14 @@
+---
+title: Acknowledgements
+questions:
+- "What basic?"
+- "How can ?"
+- "How do ?"
+- "Can I ?"
+objectives:
+- "???"
+- "???"
+---
 # Acknowledgements {.unnumbered}
 
 <!-- This is for acknowledging all of the people who helped out -->

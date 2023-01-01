@@ -25,7 +25,7 @@ This is the introduction. Duis in neque felis. In hac habitasse platea dictumst.
 
 This is the literature review. Nullam quam odio, volutpat ac ornare quis, vestibulum nec nulla. Aenean nec dapibus in mL/min^-1^. Mathematical formula can be inserted using Latex and can be automatically numbered:
  
-$f(x) = ax^3 + bx^2 + cx + d$ {#eq:my_equation}
+$$f(x) = ax^3 + bx^2 + cx + d$$ {#eq:my_equation}
 
 Nunc eleifend, ex a luctus porttitor, felis ex suscipit tellus, ut sollicitudin sapien purus in libero. Nulla blandit eget urna vel tempus. Praesent fringilla dui sapien, sit amet egestas leo sollicitudin at.  
 
